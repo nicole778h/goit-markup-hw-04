@@ -441,3 +441,21 @@ a{
     align-items: center;
     justify-content: center;
 }
+
+.customers-section {
+    padding-top: 120px; 
+    padding-bottom: 120px;
+
+}
+
+.customers-title {
+    font-size: 36px;
+    line-height: 1.11;
+    color: var(--brand-color-navy-blue);
+    margin-bottom: 72px;;
+}
+
+.customers-list {
+    display: flex;
+    
+}
