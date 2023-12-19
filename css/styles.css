@@ -485,3 +485,28 @@ a{
 .svg-customers {
     fill: currentColor;
 }
+
+.footer-div{
+    display: flex;
+    align-items: baseline;
+    margin-right: 120px;
+}
+
+.social-media-paragraph {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+    margin-bottom: 16px;
+}
+
+.social-media-footer {
+    display: flex;
+    gap: 16px;
+}
+
+.social-media-list-footer {
+    width: 40;
+    height: 40;
+}
