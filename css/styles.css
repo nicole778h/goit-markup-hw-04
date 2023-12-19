@@ -452,10 +452,11 @@ a{
     font-size: 36px;
     line-height: 1.11;
     color: var(--brand-color-navy-blue);
-    margin-bottom: 72px;;
+    margin-bottom: 72px;
 }
 
 .customers-list {
     display: flex;
-    
+    gap: 24px;
+
 }
